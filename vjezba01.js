@@ -10,6 +10,8 @@ if (typeof x !== "number") {
     console.log("Broj", x, "je neparan broj.");
 }
 
+// ***BONUS***
+
 for (i = 1; i <= 100; i++) {
     if (i % 3 == 0 && i % 5 == 0) {
         console.log("FizzBuzz");
